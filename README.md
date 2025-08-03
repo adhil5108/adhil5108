@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @adhil5108
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 7994106877
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hey there, I'm Adhil! 
+
+💻 I'm passionate about coding and building cool stuff on the web.  
+🌱 Currently learning **React** and improving my frontend skills.  
+🤝 Looking to collaborate on beginner-friendly projects.  
+📫 Reach me at: [adhil6779@gmail.com](mailto:adhil6779@gmail.com)  
+⚡ Fun fact: I write better code than I tell jokes 😅  
+
+---
+
+### 🚀 Skills
+- HTML | CSS | JavaScript  
+- Git & GitHub  
+- Currently learning React ⚛️  
+
+### 🧰 Projects
+Check out some of my work in the pinned repos below ⬇️  
+
 
 <!---
 adhil5108/adhil5108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
