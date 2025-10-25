@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Adhil! 
 
 💻 I'm passionate about coding and building cool stuff on the web.  
-🌱 Currently learning **java** and improving my frontend skills.  
+🌱 Currently learning **java** and improving my backend skills.  
 🤝 Looking to collaborate on beginner-friendly projects.  
 📫 Reach me at: [adhil6779@gmail.com](mailto:adhil6779@gmail.com)  
 ⚡ Fun fact: I write better code than I tell jokes 😅  
