@@ -9,9 +9,9 @@
 ---
 
 ### 🚀 Skills
-- HTML | CSS | JavaScript  
-- Git & GitHub  
-- Currently learning React ⚛️  
+- HTML | CSS | JavaScript |java | spring boot 
+- Git & GitHub & Docker 
+- Currently learning spring boot    
 
 ### 🧰 Projects
 Check out some of my work in the pinned repos below ⬇️  
