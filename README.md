@@ -11,8 +11,7 @@ I love building clean and functional web apps.
 ###  Skills
 - HTML | CSS | JavaScript | Java | Spring Boot  
 - React | Redux | Tailwind CSS  
-- Node.js | Express.js  
-- PostgreSQL | MongoDB  
+- PostgreSQL  
 - Git | GitHub | Docker  
 
 ---
