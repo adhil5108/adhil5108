@@ -1,20 +1,19 @@
 # 👋 Hey there, I'm Adhil!
 
-I enjoy building clean, scalable, and functional web applications.  
-Currently diving deep into **Spring Boot**, **Redis**, and backend architecture.  
-Also sharpening my testing skills with **JUnit**, **Mockito**, and real-world integration test setups.  
+I’ve wrapped up my journey with **Java** and **Spring Boot**, and now I love building clean, scalable, and production-ready backend systems.  
+Currently exploring **Redis**, advanced backend patterns, and writing high-quality, well-tested code.  
+Also sharpening my skills with **JUnit**, **Mockito**, and real-world integration testing — because bugs should fear me, not the other way around. 🐛⚡
 
 Always open to collaborating on beginner-friendly or learning-focused projects!  
-📬 Reach me at: **muhammedhadilv@gmail.com**  
-
-Fun fact: I debug faster than I decide what to eat 😅
+📬 Reach me at: **muhammedhadilv@gmail.com**
 
 ---
 
 ## 🛠️ Skills
+
 - **Frontend:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS  
 - **Backend:** Java, Spring Boot, REST APIs, Redis  
-- **Database:** PostgreSQL  
+- **Database:** PostgreSQL, Redis  
 - **DevOps & Tools:** Docker, Git, GitHub  
 - **Testing:** JUnit, Mockito, Unit Testing, Integration Testing  
 
@@ -32,11 +31,12 @@ Fun fact: I debug faster than I decide what to eat 😅
 
 ### **Backend**
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000?style=for-the-badge&logo=springboot)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
 ![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
 ### **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
 
 ### **Testing**
 ![JUnit](https://img.shields.io/badge/JUnit-000?style=for-the-badge&logo=junit5)
@@ -51,8 +51,8 @@ Fun fact: I debug faster than I decide what to eat 😅
 ---
 
 ## 📌 Projects  
-Here are some of the projects I've been working on — full-stack apps, Java practice, and learning experiments.  
-Check out the pinned repositories below! ⬇️
+I’ve been building full-stack apps, backend-focused projects, and experiments to sharpen my architecture & testing skills.  
+Check out the pinned repositories below to see what I’ve been up to! ⬇️
 
 ---
 
