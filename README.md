@@ -1,14 +1,14 @@
-# 👋 Hey there, I'm Adhil!
+#  Hey there, I'm Adhil!
 
 I'm a **full-stack developer** skilled in **HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Java, Spring Boot, Redis, PostgreSQL, Docker**, and everything needed to build fast, scalable, full-stack applications.  
 I also know **unit testing, integration testing, JUnit, Mockito**, and focus on writing clean, maintainable, and bug-free code.  
 
 Always open to collaborating on beginner-friendly or learning-focused projects!  
-📬 Reach me at: **muhammedhadilv@gmail.com**
+ Reach me at: **muhammedhadilv@gmail.com**
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS  
 - **Backend:** Java, Spring Boot, REST APIs, Redis  
@@ -18,7 +18,7 @@ Always open to collaborating on beginner-friendly or learning-focused projects!
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -49,7 +49,7 @@ Always open to collaborating on beginner-friendly or learning-focused projects!
 
 ---
 
-## 📌 Projects  
+##  Projects  
 I’ve been building full-stack applications, backend-focused systems, and hands-on experiments to sharpen my architecture & testing skills.  
 Check out the pinned repositories below to see what I’ve been working on! ⬇️
 
