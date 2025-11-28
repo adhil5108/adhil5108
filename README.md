@@ -2,7 +2,7 @@
 
 I’ve wrapped up my journey with **Java** and **Spring Boot**, and now I love building clean, scalable, and production-ready backend systems.  
 Currently exploring **Redis**, advanced backend patterns, and writing high-quality, well-tested code.  
-Also sharpening my skills with **JUnit**, **Mockito**, and real-world integration testing — because bugs should fear me, not the other way around. 🐛⚡
+Also sharpening my skills with **JUnit**, **Mockito**, and real-world integration testing — because bugs should fear me, not the other way around. 
 
 Always open to collaborating on beginner-friendly or learning-focused projects!  
 Reach me at: **muhammedhadilv@gmail.com**
