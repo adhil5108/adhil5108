@@ -1,15 +1,15 @@
-# 👋 Hey there, I'm Adhil!
+#  Hey there, I'm Adhil!
 
 I’ve wrapped up my journey with **Java** and **Spring Boot**, and now I love building clean, scalable, and production-ready backend systems.  
 Currently exploring **Redis**, advanced backend patterns, and writing high-quality, well-tested code.  
 Also sharpening my skills with **JUnit**, **Mockito**, and real-world integration testing — because bugs should fear me, not the other way around. 🐛⚡
 
 Always open to collaborating on beginner-friendly or learning-focused projects!  
-📬 Reach me at: **muhammedhadilv@gmail.com**
+Reach me at: **muhammedhadilv@gmail.com**
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS  
 - **Backend:** Java, Spring Boot, REST APIs, Redis  
@@ -19,7 +19,7 @@ Always open to collaborating on beginner-friendly or learning-focused projects!
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### **Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
@@ -50,7 +50,7 @@ Always open to collaborating on beginner-friendly or learning-focused projects!
 
 ---
 
-## 📌 Projects  
+##  Projects  
 I’ve been building full-stack apps, backend-focused projects, and experiments to sharpen my architecture & testing skills.  
 Check out the pinned repositories below to see what I’ve been up to! ⬇️
 
