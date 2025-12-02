@@ -45,6 +45,7 @@ Always open to collaborating on beginner-friendly or learning-focused projects!
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
 ![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
 
 ---
