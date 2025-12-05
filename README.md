@@ -3,7 +3,7 @@
 I'm a **full-stack developer** skilled in **HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Java, Spring Boot, Redis, PostgreSQL, Docker**, and everything needed to build fast, scalable, full-stack applications.  
 I also know **unit testing, integration testing, JUnit, Mockito**, and focus on writing clean, maintainable, and bug-free code.  
 
-Always open to collaborating on beginner-friendly or learning-focused projects!  
+Always open to collaborating on projects!  
  Reach me at: **muhammedhadilv@gmail.com**
 
 ---
