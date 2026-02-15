@@ -1,62 +1,46 @@
-#  Hey there, I'm Adhil!
+# Hey, I'm Hadil
 
-I'm a **full-stack developer** skilled in **HTML, CSS, JavaScript, React, Redux, Tailwind CSS, Java, Spring Boot, Redis, PostgreSQL, Docker**, and everything needed to build fast, scalable, full-stack applications.  
-I also know **unit testing, integration testing, JUnit, Mockito**, and focus on writing clean, maintainable, and bug-free code.  
+Backend-focused Full-Stack Developer specializing in **Java & Spring Boot**.  
+I enjoy building scalable backend systems, designing clean APIs, and working on real-world engineering problems involving data, performance, and system reliability.
 
-Always open to collaborating on projects!  
- Reach me at: **muhammedhadilv@gmail.com**
+Currently building **DataBridge** — a distributed NoSQL → SQL migration engine focused on safe and scalable data transfer.
 
----
-
-##  Skills
-
-- **Frontend:** HTML, CSS, JavaScript, React, Redux, Tailwind CSS  
-- **Backend:** Java, Spring Boot, REST APIs, Redis  
-- **Database:** PostgreSQL, Redis  
-- **DevOps & Tools:** Docker, Git, GitHub  
-- **Testing:** JUnit, Mockito, Unit Testing, Integration Testing  
+Reach me at: muhammedhadilv@gmail.com
 
 ---
 
-##  Tech Stack
+##  What I Work With
 
-### **Frontend**
-![HTML](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+**Backend**
+- Java, Spring Boot
+- REST API Design
+- Redis (Caching & Performance)
+- PostgreSQL
+- Authentication (JWT, OAuth concepts)
 
-### **Backend**
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-000?style=for-the-badge&logo=springboot)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+**Frontend**
+- React, Redux
+- HTML, CSS, JavaScript
+- Tailwind CSS
 
-### **Database**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+**Testing & Quality**
+- Unit Testing & Integration Testing
+- JUnit, Mockito
+- Clean Architecture & Maintainable Code
 
-### **Testing**
-![JUnit](https://img.shields.io/badge/JUnit-000?style=for-the-badge&logo=junit5)
-![Mockito](https://img.shields.io/badge/Mockito-000?style=for-the-badge&logo=mockito)
-![Testing](https://img.shields.io/badge/Testing-Unit%20%26%20Integration-000?style=for-the-badge)
-
-### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000?style=for-the-badge&logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+**DevOps & Tools**
+- Docker
+- Git & GitHub
+- GitHub Actions (CI basics)
 
 ---
 
-##  Projects  
-I’ve been building full-stack applications, backend-focused systems, and hands-on experiments to sharpen my architecture & testing skills.  
-Check out the pinned repositories below to see what I’ve been working on! ⬇️
+##  Featured Work
 
----
+I focus on backend-heavy and full-stack systems that demonstrate real engineering practices:
 
-<!---
-adhil5108/adhil5108 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **DataBridge** — Distributed migration engine (MongoDB → PostgreSQL)
+- **Auth Service** — JWT authentication & role-based authorization
+- Full-stack applications integrating React with Spring Boot APIs
+
+Check the pinned repositories below to explore the projects 👇
