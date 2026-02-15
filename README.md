@@ -1,6 +1,6 @@
 # Hey, I'm Hadil
 
-Backend-focused Full-Stack Developer specializing in **Java & Spring Boot**.  
+Full-Stack Developer specializing in **Java & Spring Boot**.  
 I enjoy building scalable backend systems, designing clean APIs, and working on real-world engineering problems involving data, performance, and system reliability.
 
 Currently building **DataBridge** — a distributed NoSQL → SQL migration engine focused on safe and scalable data transfer.
